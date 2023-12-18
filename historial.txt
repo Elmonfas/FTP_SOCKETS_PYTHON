@@ -1,0 +1,33 @@
+2023-10-30 23:24:01,476 - INFO: Se ha agregado un usuario: Jesus, Correo electrónico: jesus@gmail.com
+2023-10-30 23:24:31,463 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:39:26,094 - INFO: Se ha agregado un usuario: jesus, Correo electrónico: a
+2023-12-11 10:39:42,276 - INFO: Se ha agregado un usuario: valen, Correo electrónico: a
+2023-12-11 10:44:19,693 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:44:46,912 - INFO: Se ha creado una carpeta hola para el usuario pedro
+2023-12-11 10:45:27,465 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 10:46:29,224 - INFO: Se ha agregado un usuario: a, Correo electrónico: a
+2023-12-11 10:46:38,252 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:47:50,840 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 10:47:59,445 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:50:23,182 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:52:44,630 - INFO: Se ha agregado un usuario: lol, Correo electrónico: a
+2023-12-11 10:53:09,033 - INFO: Se ha agregado un usuario: hola, Correo electrónico: a
+2023-12-11 10:55:53,771 - INFO: El usuario lol ha subido un archivo
+2023-12-11 10:56:23,440 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 10:56:31,839 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:59:32,183 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 10:59:43,627 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 11:11:28,142 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 11:11:35,151 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 11:18:38,187 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 11:19:38,083 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 11:21:18,902 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 11:21:25,979 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 11:21:30,141 - INFO: El usuario juan ha subido un archivo
+2023-12-11 11:21:55,008 - INFO: El usuario pedro ha subido un archivo
+2023-12-11 17:51:49,488 - INFO: Se ha agregado un usuario: pedro, Correo electrónico: a
+2023-12-11 17:52:07,778 - INFO: Se ha agregado un usuario: juan, Correo electrónico: a
+2023-12-11 17:52:27,027 - INFO: El usuario pedro ha subido un archivo
+2023-12-11 17:53:05,863 - INFO: El usuario juan ha subido un archivo
+2023-12-11 17:53:41,915 - INFO: El usuario juan ha borrado el archivo file.txt
+2023-12-11 17:54:11,991 - INFO: Se ha creado una carpeta joder para el usuario pedro
